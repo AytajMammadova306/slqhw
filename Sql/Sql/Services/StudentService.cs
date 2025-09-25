@@ -58,5 +58,16 @@ namespace Sql
             }
             return student;
         }
+
+        public void Remove(int id)
+        {
+            _sql.ExecuteCommand($"DELETE FROM Students WHERE Id={id}");
+        }
+
+        public void Update(Student student)
+        {
+            Remove(student.Id);
+            Add(student);
+        }
     }
 }
