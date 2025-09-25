@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\academy\\HW\\Sql\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F66A6F57-6475-48DA-8BE8-CA1F5963FFE1}|Sql\\Sql.csproj|c:\\users\\user\\desktop\\academy\\hw\\sql\\sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F66A6F57-6475-48DA-8BE8-CA1F5963FFE1}|Sql\\Sql.csproj|solutionrelative:sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F66A6F57-6475-48DA-8BE8-CA1F5963FFE1}|Sql\\Sql.csproj|c:\\users\\user\\desktop\\academy\\hw\\sql\\sql\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F66A6F57-6475-48DA-8BE8-CA1F5963FFE1}|Sql\\Sql.csproj|solutionrelative:sql\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66A6F57-6475-48DA-8BE8-CA1F5963FFE1}|Sql\\Sql.csproj|c:\\users\\user\\desktop\\academy\\hw\\sql\\sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66A6F57-6475-48DA-8BE8-CA1F5963FFE1}|Sql\\Sql.csproj|solutionrelative:sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F66A6F57-6475-48DA-8BE8-CA1F5963FFE1}|Sql\\Sql.csproj|c:\\users\\user\\desktop\\academy\\hw\\sql\\sql\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\Sql\\Sql\\Program.cs",
               "RelativeDocumentMoniker": "Sql\\Program.cs",
@@ -71,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\Sql\\Sql\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "Sql\\Services\\StudentService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\Sql\\Sql\\Services\\StudentService.cs",
               "RelativeToolTip": "Sql\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBQAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwCIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T13:19:35.027Z",
               "EditorCaption": ""

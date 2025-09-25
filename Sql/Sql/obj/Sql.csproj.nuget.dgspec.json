@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\academy\\HW\\Sql\\Sql\\Sql.csproj": {}
+    "C:\\Users\\User\\Desktop\\academy\\HW\\SQLTASK\\Sql\\Sql\\Sql.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\academy\\HW\\Sql\\Sql\\Sql.csproj": {
+    "C:\\Users\\User\\Desktop\\academy\\HW\\SQLTASK\\Sql\\Sql\\Sql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\academy\\HW\\Sql\\Sql\\Sql.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\academy\\HW\\SQLTASK\\Sql\\Sql\\Sql.csproj",
         "projectName": "Sql",
-        "projectPath": "C:\\Users\\User\\Desktop\\academy\\HW\\Sql\\Sql\\Sql.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\academy\\HW\\SQLTASK\\Sql\\Sql\\Sql.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\academy\\HW\\Sql\\Sql\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\academy\\HW\\SQLTASK\\Sql\\Sql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

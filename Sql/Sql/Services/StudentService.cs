@@ -39,5 +39,24 @@ namespace Sql
             }
             return students;
         }
+
+
+        public Student GetId(int id)
+        {
+            DataTable table = _sql.ExecuteQuery("SELECT * FROM Students");
+            Student student = new();
+            foreach (DataRow row in table.Rows)
+            {
+                student=new Student
+                {
+                    Id = (int)row["Id"],
+                    Name = row["Name"].ToString(),
+                    Surname = row["Surname"].ToString(),
+                    Age = (int)row["Age"],
+
+                };
+            }
+            return student;
+        }
     }
 }
